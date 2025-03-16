@@ -30,3 +30,7 @@ To run this project, you will need Python and several dependencies. You can inst
    ```bash
    git clone https://github.com/akramsu/Chest-XRay-Pneumonia-Detection.git
    cd Chest-XRay-Pneumonia-Detection
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
