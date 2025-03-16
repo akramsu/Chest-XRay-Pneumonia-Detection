@@ -34,3 +34,18 @@ To run this project, you will need Python and several dependencies. You can inst
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+
+### 2. **Option 2: "Use Google Colab" (or other similar platforms)**
+If you want to make it easy for users to start without worrying about environment setup or dependencies, using Google Colab (or other online environments) is a great idea. Colab automatically provides a pre-configured environment where you can directly upload the notebook and execute the code. This is a good approach if you expect users to quickly try the project without local setup.
+
+```markdown
+## Installation
+
+You can run this project easily on Google Colab or any similar online environment. 
+
+1. Open the notebook on [Google Colab](https://colab.research.google.com/).
+2. Upload the dataset (or link it from Kaggle).
+3. Run the notebook's cells sequentially to train the model and evaluate the results.
+
+This will allow you to run the project without needing to install anything on your local machine.
