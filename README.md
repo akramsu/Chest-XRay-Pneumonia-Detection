@@ -35,7 +35,6 @@ To run this project, you will need Python and several dependencies. You can inst
    ```bash
    pip install -r requirements.txt
 
-
 ### 2. **Option 2: "Use Google Colab" (or other similar platforms)**
 If you want to make it easy for users to start without worrying about environment setup or dependencies, using Google Colab (or other online environments) is a great idea. Colab automatically provides a pre-configured environment where you can directly upload the notebook and execute the code. This is a good approach if you expect users to quickly try the project without local setup.
 
@@ -49,3 +48,8 @@ You can run this project easily on Google Colab or any similar online environmen
 3. Run the notebook's cells sequentially to train the model and evaluate the results.
 
 This will allow you to run the project without needing to install anything on your local machine.
+```
+
+## Acknowledgments
+The dataset is provided by Paul Timothymooney.
+Special thanks to the developers of the libraries used in this project, including scikit-learn, OpenCV, and matplotlib.
